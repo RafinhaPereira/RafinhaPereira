@@ -18,8 +18,9 @@ Principais tecnologias
   ##
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafinhaPereira&show_icons=true&theme=darcula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafinhaPereira&layout=compact"/>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RafinhaPereira&show_icons=true&theme=darcula"/>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafinhaPereira&layout=compact"/>
+
 </div>
 
 <div> 
