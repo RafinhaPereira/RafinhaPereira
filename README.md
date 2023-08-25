@@ -21,8 +21,7 @@ Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por te
 <img  alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
  
 </div>
-
-123456
+<br>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafinhaPereira&bg_color=2a2829&color=ffffff&line=f74545&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)         
 
