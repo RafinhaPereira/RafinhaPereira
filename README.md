@@ -1,7 +1,7 @@
 
 # Rafael Pereira
 
-Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por tecnologia que resolveu se jogar nesse mundo da programação. Atualmente sou estudante de Engenharia de Software !!
+Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por tecnologia que resolveu se jogar nesse mundo da programação. Atualmente sou estudante de Engenharia de Software, também estudo na [DevMedia](https://www.devmedia.com.br/perfil/rafael-pereira-da-silva-7) !!
 
 ### Conecte-se comigo
 <a href="https://www.linkedin.com/in/rafael-pereira-5a088b83/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -18,6 +18,8 @@ Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por te
 <img  alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img  alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img  alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img  alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ 
 </div>
 
 
