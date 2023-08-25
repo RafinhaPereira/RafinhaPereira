@@ -22,7 +22,7 @@ Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por te
  
 </div>
 
-
+123456
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafinhaPereira&bg_color=2a2829&color=ffffff&line=f74545&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)         
 
