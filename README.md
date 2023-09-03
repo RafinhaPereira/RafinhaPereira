@@ -1,7 +1,7 @@
 
 # Rafael Pereira
 
-Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por tecnologia que resolveu se jogar nesse mundo da programação. Atualmente sou estudante de Engenharia de Software, também estudo na [DevMedia](https://www.devmedia.com.br/perfil/rafael-pereira-da-silva-7) !!
+Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por tecnologia que resolveu se jogar nesse mundo da programação. Atualmente sou estudante de **Engenharia de Software**, também estudo na **[DevMedia](https://www.devmedia.com.br/perfil/rafael-pereira-da-silva-7)** !!
 
 ### Conecte-se comigo
 <a href="https://www.linkedin.com/in/rafael-pereira-5a088b83/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -24,7 +24,6 @@ Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por te
 <br>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafinhaPereira&bg_color=2a2829&color=ffffff&line=f74545&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)         
-
 
 
 
