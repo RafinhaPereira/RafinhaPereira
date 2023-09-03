@@ -27,4 +27,7 @@ Olá, pessoal! Me chamo Rafael, estou em  Guarulhos-SP, sou um apaixonado por te
 
 ![Snake animation](https://github.com/RafinhaPereira/RafinhaPereira/blob/output/github-contribution-grid-snake.svg)
 
+
+
           
+![Snake animation](https://github.com/RafinhaPereira/RafinhaPereira/blob/main/RafinhaPereira-github-user-contribution.svg)
